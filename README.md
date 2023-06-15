@@ -26,7 +26,7 @@ Heroku
 
 ## Github Pages
 
-Locate the deployed application here[]
+Locate the deployed herkou application here[]
 
 ## Screenshots
 <img width="873" alt="Screenshot 2023-06-14 at 10 08 20" src="https://github.com/Ze7Hu/Text-Editor/assets/123417090/335d9006-d6dc-452e-8da5-c0b28095d90a">
