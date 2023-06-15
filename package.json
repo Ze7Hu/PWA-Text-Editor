@@ -1,6 +1,9 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
+  "engines": {
+    "npm": "9.7.1"
+  },
   "description": "",
   "main": "server.js",
   "scripts": {
