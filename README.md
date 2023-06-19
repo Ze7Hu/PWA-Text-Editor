@@ -29,11 +29,12 @@ Heroku
 Locate the deployed herkou application here[]
 
 ## Screenshots
-<img width="1157" alt="Screenshot 2023-06-19 at 16 09 58" src="https://github.com/Ze7Hu/PWA-Text-Editor/assets/123417090/0cef48b6-f13a-4f02-b1cb-ea66ddfe45cc">
-
-<img width="1157" alt="Screenshot 2023-06-19 at 16 17 04" src="https://github.com/Ze7Hu/PWA-Text-Editor/assets/123417090/0e609c14-c4e6-4823-806d-d263b8b0a2db">
 
 
+
+<img width="873" alt="Screenshot 2023-06-19 at 16 09 58" src="https://github.com/Ze7Hu/PWA-Text-Editor/assets/123417090/e47ba6f3-b309-42f3-be51-d5e9ee5ea5ac">
+
+<img width="873" alt="Screenshot 2023-06-19 at 16 17 04" src="https://github.com/Ze7Hu/PWA-Text-Editor/assets/123417090/2886a6fc-fadd-4a35-88a8-04ce3a2bfc49">
 
 
 
