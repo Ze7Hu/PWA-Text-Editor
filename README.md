@@ -26,7 +26,7 @@ Heroku
 
 ## Github Pages
 
-Locate the deployed herkou application here[]
+Locate the deployed herkou application here[https://pwa-text1.herokuapp.com/]
 
 ## Screenshots
 
